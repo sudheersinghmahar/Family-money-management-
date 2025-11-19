@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299627658265",
+    "project_id": "familymoneymanagerv2",
+    "storage_bucket": "familymoneymanagerv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299627658265:android:885048f3cb8009933afe88",
+        "android_client_info": {
+          "package_name": "com.example.familymoneymanagerv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfVO39IigJhfjcoZA10-Niszo3eodWpkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
